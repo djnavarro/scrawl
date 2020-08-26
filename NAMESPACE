@@ -2,4 +2,5 @@
 
 export(scrawl_build)
 export(scrawl_plot)
+export(scrawl_save)
 importFrom(dplyr,"%>%")
