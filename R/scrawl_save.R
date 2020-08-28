@@ -7,6 +7,7 @@
 #' @return Invisibly returns NULL
 #'
 #' @details This is just a thin wrapper around ggsave()
+#' @export
 scrawl_save <- function(plot, filename, pixels = 5000) {
 
   # save it it to file
